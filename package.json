@@ -1,10 +1,10 @@
 {
-  "name": "mpr-package2",
+  "name": "@gt-packages/mpr-package2",
   "type": "module",
   "version": "0.1.1",
   "license": "ISC",
   "repository": {
-    "url": "git+ssh://git@github.com/GaborTorma/mpr-package2.git"
+    "url": "git+ssh://git@github.com/gt-packages/mpr-package2.git"
   },
   "main": "index.js",
   "publishConfig": {
