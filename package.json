@@ -7,9 +7,6 @@
     "url": "git+ssh://git@github.com/gt-packages/mpr-package2.git"
   },
   "main": "index.js",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "scripts": {
     "release": "dotenv release-it"
   },
