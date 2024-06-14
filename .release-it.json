@@ -3,12 +3,15 @@
     "requireCleanWorkingDir": true,
     "commitMessage": "Release: ${version}",
     "tagAnnotation": "Release: ${version}",
-    "tagName": "v${version}"
+    "tagName": "v${version}",
+    "requireCommits": true,
+    "requireCommitsFail": false
   },
   "github": {
     "release": true
   },
   "npm": {
-    "publish": true
+    "publish": true,
+    "skipChecks": true
   }
 }
