@@ -1,3 +1,3 @@
-console.log('mpr-package2 loaded')
+console.log('mwm-package2 loaded')
 
-export default 'mpr-package2'
+export default 'mwm-package2'
