@@ -1,7 +1,7 @@
 {
   "name": "@gt-packages/mwm-package2",
   "type": "module",
-  "version": "0.2.11",
+  "version": "0.2.12",
   "license": "ISC",
   "repository": {
     "url": "git+ssh://git@github.com/gt-packages/mwm-package2.git"
